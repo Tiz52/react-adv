@@ -6,9 +6,7 @@ import { MyCheckBox, MySelect, MyTextInput } from '../components';
 import '../styles/styles.css';
 
 export const FormikAbstraction= () => {
-
-
-
+	
 	return (
 		<div>
 			<h1>Formik Abstraction</h1>
